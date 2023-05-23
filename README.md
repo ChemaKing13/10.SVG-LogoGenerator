@@ -1,1 +1,1 @@
-# 10.SVG-LogoMaker
+# SVG-LogoGenerator 
