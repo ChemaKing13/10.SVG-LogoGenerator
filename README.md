@@ -1,40 +1,59 @@
-# SVG-LogoGenerator 
+# SVG-LogoGenerator  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<h2>Description</h2>
+## Description
 
-This is a command-line application that generates a README file with most of the apects that a pro README should have. It prompts the user for input and dynamically generates a README file based on the provided information. It helps to ensure that your projects have informative and well structured README files, wich are really important in software development community. 
+This Logo Generator is a tool that empowers users to create stunning logos in SVG format quickly and effortlessly. With this generator, users have the freedom to customize various aspects of their logos, including colors, text, and dimensions, allowing them to bring their vision to life without any cost constraints.
 
-Some of the advantages that this project could offer to the users are: 
+## Table of Contents
 
-* Time-saving 
-* Consistency 
-* Standardization
-* Professional presentation 
-* Enhanced Project Visibility
+- [Description](#description)
+- [Built With](#built-with)
+- [License](#license)
+- [Installation](#installation)
+- [Credits](#credits)
+- [Demo](#demo)
+- [Preview](#preview)
 
-<h2>Built With</h2> 
+## Built With
 
 - Node.js
 - JavaScript
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-<h2>Credits</h2>
-In order to complete this challenge, I applied the knowledge seen in class, as well as additional resources from the Internet, such as articles and videos. The starter code wich gave me an idea of how to structure my code was retrieved from: https://github.com/coding-boot-camp/potential-enigma. 
+## Installation
 
-* https://collabnix.com/how-to-install-and-configure-nvm-on-mac-os/
-* https://app.screencastify.com/videos
-* https://www.w3schools.com/js/js_switch.asp
-* https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
-* https://www.w3schools.com/nodejs/nodejs_filesystem.asp
-* https://shields.io/category/license
+To use the SVG Logo Generator, follow these steps:
 
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/ChemaKing13/svg-logo-generator.git
 
+2. Navigate to the project directory: 
+     ```bash
+   cd svg-logo-generator
+3. Install the required dependencies using: 
+    ```bash
+    npm install 
+4. Start the SVG Logo Generator: 
+    ```bash
+      npm run
+## Credits
 
+In order to complete this challenge, I applied the knowledge seen in class, as well as additional resources from the Internet, such as articles and videos.
 
-<h2>Demo</h2>
+- http://www.w3.org/2000/svg
+- https://app.screencastify.com/videos
+- https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function
+- https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
+- https://www.valentinog.com/blog/jest/
+- https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
-https://drive.google.com/file/d/1CSM4ukyW_swSXfFUpW9hUV6WNYOWT1D0/view?usp=share_link
+## Demo
 
+You can watch the demo video [here](https://drive.google.com/file/d/1qWe62GQoMg3qEuoKM07mdMFp9pGyc-A_/view).
 
-<h2>Preview</h2
+## Preview
+
