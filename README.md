@@ -13,12 +13,13 @@ This Logo Generator is a tool that empowers users to create stunning logos in SV
 - [Test](#test)
 - [Credits](#credits)
 - [Demo](#demo)
-- [Preview](#preview)
 
 ## Built With
 
-- Node.js
-- JavaScript
+## Built With
+
+- ![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ## License
 
