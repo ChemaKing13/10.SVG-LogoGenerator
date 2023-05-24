@@ -60,6 +60,7 @@ In order to complete this challenge, I applied the knowledge seen in class, as w
 - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
 - https://www.valentinog.com/blog/jest/
 - https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+- https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
 
 ## Demo
 
